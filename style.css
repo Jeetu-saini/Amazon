@@ -41,10 +41,11 @@ body{
 .list{
     width:52px;
     height: 40px;
+    font-size: 17px;
 }
 .search input {
-    width: 300px;
-    height: 40px;
+    width: 30vw;
+    height: 7.2vh;
 }
 .flag{
     margin-top: 5px;
