@@ -16,8 +16,8 @@ body{
     align-items: center;
     color: aliceblue;
     justify-content: space-between;
-    
-    
+    position: fixed;
+    z-index: 7;
 }
 .navbar-logo{
     width: 95px;
@@ -39,8 +39,8 @@ body{
     margin-left: 20px;
 }
 .list{
-    width:52px;
-    height: 40px;
+    width:50px;
+    height: 39px;
     font-size: 17px;
 }
 .search input {
@@ -75,12 +75,15 @@ body{
 .Cart-logo span{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
-    padding-right: 10px;
+    padding-right: 19px;
 }
 .nav-main{
     width: 100vw;
     height: 6vh;
     background: #232f3e;
+    position: fixed;
+    top: 58px;
+    z-index: 7;
 }
 .menu i{
     align-items: center;
@@ -98,13 +101,82 @@ body{
 .nav-file ul{
     display: flex;
     flex-direction: row;
-    gap: 13px;
+    gap: 15px;
     list-style: none;
     color: white;
     font-size: 15px;
     font-weight: 600;
     
 }
+.page-content img{
+    width:100%;
+    height: 500px;
+    position: relative;
+    top:88px;
+}
+.white{
+    width: 100vw;
+    height: 350px;
+    background-color:  rgba(242, 224, 227, 0.896);
+    position: relative;
+    z-index: 5;
+    bottom: 50px;
+}
+.container1{
+    display: flex;
+    gap: 15px;
+    position: relative;
+    bottom: 400px;
+    z-index: 6;
+    font-size: 20px;
+}
+.box1{
+    width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 12px;
+}
+.box2{
+     width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 12px;
+}
+.box3{
+     width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 12px;
+}
+
+.sign-box{
+    width: 270px;
+    height:150px ;
+    background-color: white;
+     position: relative;
+    left: 12px;
+}
+.sign-box1{
+    width: 270px;
+    height:240px ;
+    background-color: white;
+     position: relative;
+    left: 12px;
+    top: 12px;
+}
+.sign-box button{
+    border-radius: 17px;
+    background-color: rgb(233, 233, 12);
+    font-weight: 500;
+    width: 200px;
+    height: 25px;
+    position: relative;
+    left: 32px;
+}
+
 
 
 
