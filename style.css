@@ -129,6 +129,7 @@ body{
     bottom: 400px;
     z-index: 6;
     font-size: 20px;
+    
 }
 .box1{
     width: 270px;
@@ -136,6 +137,8 @@ body{
     background-color: white;
     position: relative;
     left: 12px;
+    
+   
 }
 .box2{
      width: 270px;
@@ -175,6 +178,26 @@ body{
     height: 25px;
     position: relative;
     left: 32px;
+    top: 30px;
+}
+.image img{
+    width: 110px;
+    height: 110px;
+   position: relative;
+   left: 22px;
+   top: 15px;
+  
+}
+.image2 img{
+     width: 110px;
+    height: 110px;
+     position: relative;
+     left: 22px;
+     top: 55px;
+}
+.image3 img{
+    width: 270px;
+    height: 240px;
 }
 
 
