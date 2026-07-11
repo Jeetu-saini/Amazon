@@ -115,19 +115,11 @@ body{
     position: relative;
     top:88px;
 }
-.white{
-    width: 100vw;
-    height: 350px;
-    background-color:  rgba(242, 224, 227, 0.896);
-    position: relative;
-    z-index: 5;
-    bottom: 50px;
-}
 .container1{
     display: flex;
     justify-content: space-evenly;
     position: relative;
-    bottom: 400px;
+    bottom: 100px;
     z-index: 6;
     font-size: 20px;
     
@@ -202,7 +194,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 137px;
-    
+    margin-top: 15px;
 }
 .image1 span{
     font-size: 12px;
@@ -218,7 +210,42 @@ body{
     width: 270px;
     height: 240px;
 }
-
+.Container2{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    z-index: 6;
+    font-size: 20px;
+    bottom: 70px;
+}
+.boxs2-1{
+    width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 6px;
+}
+.boxs2-2{
+      width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left:11px;
+}
+.boxs2-3{
+      width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 13px;
+}
+.boxs2-4{
+      width: 270px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+}
 
 
 
