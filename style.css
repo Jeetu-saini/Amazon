@@ -195,6 +195,8 @@ body{
     flex-direction: column;
     width: 137px;
     margin-top: 15px;
+    position: relative;
+    
 }
 .image1 span{
     font-size: 12px;
@@ -224,6 +226,7 @@ body{
     background-color: white;
     position: relative;
     left: 6px;
+
 }
 .boxs2-2{
       width: 270px;
