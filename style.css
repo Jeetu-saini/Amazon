@@ -218,7 +218,8 @@ body{
     position: relative;
     z-index: 6;
     font-size: 20px;
-    bottom: 70px;
+    bottom: 80px;
+    
 }
 .boxs2-1{
     width: 270px;
@@ -227,6 +228,11 @@ body{
     position: relative;
     left: 6px;
 
+}
+.section{
+    position: relative;
+    right:13.5px ;
+    
 }
 .boxs2-2{
       width: 270px;
@@ -249,6 +255,37 @@ body{
     position: relative;
     left: 20px;
 }
+.container3{
+    width:97.8vw;
+    height: 285px;
+    background-color: white;
+    position: relative;
+    bottom: 60px;
+    left: 15px;
+}
+.heading-mobile{
+    font-size: 20px;
+    position: relative;
+    left: 15px;
+    top: 9px;
+}
+.Mobile{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 13px;
+    
+}
+.mobile-box{
+    width: 18px;
+    height: 28px;
+    background-color: rgb(236, 238, 240);
+    position: relative;
+    top: 100px;
+    
+}
+    
+
 
 
 
