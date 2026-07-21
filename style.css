@@ -320,7 +320,41 @@ body{
     bottom: 15px;
     left: 15px;  
  }
+.container-image{
+     display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 17px;
+}
+.container6{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 15px;
+}
+.Start-box{
+    width: 306.66px;
+    height: 420px;
+    background-color: white;
+}
+.Start-box img{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.heading-container6{
+   font-size: 21px;
+    position: relative;
+    left: 15px;
+    top: 12px; 
+}
+.product-detail{
+    position: relative;
+    top: 107px;
+    left: 15px;
+    
 
+}
 
 
 
