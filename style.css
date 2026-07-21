@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: rgb(242, 224, 227);
+    background-color: rgb(231, 205, 210);
 }
 .navbar-top{
     width:100vw ;
@@ -284,7 +284,42 @@ body{
     top: 100px;
     
 }
-    
+.container4{
+    width:97.8vw;
+    height: 285px;
+    background-color: white;
+    position: relative;
+    bottom: 38px;
+    left: 15px;
+}
+ .heading-brands{
+    font-size: 23px;
+    position: relative;
+    left: 15px;
+    top: 9px;
+ }  
+ .brands{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 17px;
+
+ } 
+ .brands-box{
+     width: 18px;
+    height: 28px;
+    background-color: rgb(236, 238, 240);
+    position: relative;
+    top: 100px;
+ }
+ .container5{
+   width:97.8vw;
+    height: 285px;
+    background-color: white;
+    position: relative;
+    bottom: 15px;
+    left: 15px;  
+ }
 
 
 
