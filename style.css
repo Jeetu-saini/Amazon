@@ -339,8 +339,10 @@ body{
 }
 .Start-box img{
     position: relative;
-    left: 20px;
-    top: 20px;
+    left: 70px;
+    top: 56px;
+    width: 170px;
+    height: 220px;
 }
 .heading-container6{
    font-size: 21px;
@@ -350,11 +352,109 @@ body{
 }
 .product-detail{
     position: relative;
-    top: 107px;
+    top: 90px;
     left: 15px;
     
 
 }
+.Start-box1{
+    width: 306.66px;
+    height: 420px;
+    background-color: white;
+}
+.Start-box1 img{
+    position: relative;
+    left: 35px;
+    top: 35px;
+    width: 240px;
+    height: 260px;
+}
+
+.Start-box2{
+    width: 306.66px;
+    height: 420px;
+    background-color: white;
+}
+.Start-box2 img{
+    position: relative;
+    left: 35px;
+    top: 30px;
+    width: 240px;
+    height: 250px;
+}
+.product-detail1{
+    position: relative;
+    top: 35px;
+    left: 15px;
+}
+.Start-box3{
+    width: 306.66px;
+    height: 420px;
+    background-color: white;
+}
+.Start-box3 img{
+    position: relative;
+    left: 35px;
+    top: 30px;
+    width: 240px;
+    height: 260px;
+}
+.product-detail2{
+    position: relative;
+    top:72px;
+    left: 15px;
+}
+.container7{
+    width:97.8vw;
+    height: 290px;
+    background-color: white;
+    position: relative;
+    bottom: 15px;
+    left: 15px; 
+    top: 18px; 
+ }
+ .heading-sh{
+    font-size: 23px;
+    position: relative;
+    left: 15px;
+    top: 9px;
+ }
+ .container7-image{
+     display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 17px;
+ }
+ .container8{
+    width: 100vw;
+    height: 20vh;
+    background-color: white;
+    position: relative;
+    top: 35px;
+ }
+ .sing-see{
+    display: flex;
+    justify-content: center;
+    
+ }
+ .sing-see h2{
+    margin-top: 25px;
+ }
+ .sing-button{
+    display: flex;
+    justify-content: center;
+ }
+ .sing-button button{
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 20px;
+    margin-top: 15px;
+    font-size: 20px;
+ }
+ 
+ 
+
 
 
 
