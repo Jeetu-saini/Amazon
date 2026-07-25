@@ -431,6 +431,7 @@ body{
     background-color: white;
     position: relative;
     top: 35px;
+    z-index: -1;
  }
  .sing-see{
     display: flex;
@@ -452,6 +453,64 @@ body{
     margin-top: 15px;
     font-size: 20px;
  }
+ .nav-footer{
+    width: 100vw;
+    height:50px;
+    background-color: #37475A;
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+ }
+ .back-to{
+    margin: auto;
+ }
+ .buttom-footer{
+    width: 100vw;
+    height: 395px;
+    background-color: #232d38;
+
+ }
+ .center{
+     width: 70vw;
+     margin: auto;
+     display: flex;
+    justify-content: space-between;
+ }
+ .center .white{
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    margin-top: 40px;
+ }
+ .center .white .list-footer{
+    font-size: 13.50px;
+    list-style: none;
+    font-weight: 100;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 10px;
+    
+ }
+ .last-footer{
+    width: 100vw;
+    height: 100px;
+    background-color: #37475A;
+    
+ }
+ .hr{
+    width: 100vw;
+    height: 1px;
+    background-color: #606b79;
+ }
+ .last-footer img{
+    width: 180px;
+    height: 100px;
+    background-color: #37475A;
+    margin: auto;
+ }
+ 
+
  
  
 
