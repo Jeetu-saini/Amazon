@@ -503,11 +503,41 @@ body{
     height: 1px;
     background-color: #606b79;
  }
- .last-footer img{
-    width: 180px;
+ .footer-image{
+    width: 400px;
     height: 100px;
     background-color: #37475A;
     margin: auto;
+    display: flex;
+ }
+ .footer-list select{
+    width: 140px;
+    height: 30px;
+    background-color: #37475A;
+    position: relative;
+    top: 30px;
+     
+
+ }
+ .footer-image2{
+    display: flex;
+    border: 1px solid rgba(173, 171, 171, 0.925);
+    margin: auto;
+    width: 140px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+ }
+ .footer-image2 img{
+    width: 20px;
+    height: 16px;
+    margin-top: 6.50px;
+    margin-left: 5px;
+ }
+ .footer-image span{
+    margin-left: 5px;
+    margin-top: 5px;
  }
  
 
