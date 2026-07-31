@@ -42,10 +42,14 @@ body{
     width:50px;
     height: 7.2vh;
     font-size: 17px;
+    position: relative;
+    bottom: 7px;
 }
 .search input {
     width: 30vw;
     height: 7.2vh;
+    position: relative;
+    bottom: 6px;
 }
 .flag{
     margin-top: 5px;
